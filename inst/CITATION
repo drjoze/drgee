@@ -1,0 +1,28 @@
+bibentry(bibtype = "Article",
+         title   = "Doubly robust estimation with the R package drgee",
+         author  = c(person(given = "Johan", family = "Zetterqvist"),
+                     person(given = "Arvid", family = "Sj{\"o}lander")),
+         journal = "Epidemiologic Methods",
+         volume  = "4",
+         number  = "1",
+         pages   = "69--86",
+         year    = "2015", 
+	 doi     = "10.1515/em-2014-0021",
+	 header  = "To cite drgee in publications use:"
+	 )
+
+
+bibentry(bibtype = "Article",
+         title   = "Doubly robust methods for handling confounding by cluster",
+         author  = c(person(given = "Johan", family = "Zetterqvist"),
+                     person(given = "Stijn", family = "Vansteelandt"),
+                     person(given = "Yudi", family = "Pawitan"),
+                     person(given = "Arvid", family = "Sj{\"o}lander")),
+         journal = "Biostatistics",
+	       volume  = "17",
+	       number  = "2",
+         pages   = "264--276",
+         year    = "2016", 
+	       doi     = "10.1093/biostatistics/kxv041",
+         header  = "If you use conditional G-estimation or doubly robust conditional estimation (using cond=TRUE) please also cite:"
+         )
