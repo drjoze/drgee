@@ -1,8 +1,8 @@
 Package: drgee
 Type: Package
 Title: Doubly Robust Generalized Estimating Equations
-Version: 1.1.10-4
-Date: 2026-01-16
+Version: 1.1.10-5
+Date: 20??-??-??
 Authors@R: 
 	c(person("Johan", "Zetterqvist", email = "drjohanzetterqvist@gmail.com", role = c("aut", "cre")),
 	  person("Arvid", "Sjölander", role = "aut"),
